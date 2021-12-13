@@ -1,0 +1,155 @@
+.voir_menu{
+    text-align: center;
+}
+
+#buttonAccueil{
+    border-color: rgb(225, 79, 79);
+    border-radius: 50px;
+    background-color: rgb(225, 79, 79);
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    font-style: roboto;
+}
+
+#buttonProfil{
+    border-color: rgb(225, 79, 79);
+    border-radius: 50px;
+    background-color: rgb(225, 79, 79);
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+}
+
+.journee{
+    border-radius: 25px;
+    background-color: rgb(225, 79, 79);
+    width: 100%;
+    height: auto;
+    text-align: center;
+    color: white;
+
+}
+.l2{
+    border-radius: 25px;
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: white;
+}
+.m2{
+    border-radius: 25px;
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: white;
+}
+.mer2{
+    border-radius: 25px;
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: white;
+}
+.j2{
+    border-radius: 25px;
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: white;
+}
+.v2{
+    border-radius: 25px;
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: white;
+}
+.s2{
+    border-radius: 25px;
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: white;
+}
+.d2{
+    border-radius: 25px;
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: white;
+}
+
+.l3{
+    border-radius: 25px;
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: white;
+}
+
+.m3{
+    border-radius: 25px;
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: white;
+}
+
+.mer3{
+    border-radius: 25px;
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: white;
+}
+
+.j3{
+    border-radius: 25px;
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: white;
+}
+
+.v3{
+    border-radius: 25px;
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: white;
+}
+
+.s3{
+    border-radius: 25px;
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: white;
+}
+
+.d3{
+    border-radius: 25px;
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: white;
+}

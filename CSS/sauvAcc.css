@@ -1,0 +1,55 @@
+h1{
+    color: rgb(225, 79, 79);
+}
+
+h2{
+    color: rgb(225, 79, 79);
+}
+
+h3{
+    color: white;
+}
+
+a{
+    color: white;
+}
+#buttonAccueil{
+    background-color: rgb(225, 79, 79);
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+}
+#buttonDeconnexion{
+    background-color: rgb(225, 79, 79);
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+}
+.generer{
+    background-color: rgba(225, 79, 79, 0,75);
+    width: 100%;
+    height: auto;
+    margin: 1rem;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+
+}
+.voirMenus{
+    background-color: white;
+    width: 100%;
+    height: auto;
+    margin: 1rem;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+
+}

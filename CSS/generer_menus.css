@@ -1,0 +1,61 @@
+body{
+    background-image: url(../IMG/generer-menu.png);
+}
+h1{
+    text-align: center;
+}
+
+
+#buttonAccueil{
+    border-color: rgb(225, 79, 79);
+    border-radius: 50px;
+    background-color: rgb(225, 79, 79);
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    font-style: roboto;
+}
+
+#buttonProfil{
+    border-color: rgb(225, 79, 79);
+    border-radius: 50px;
+    background-color: rgb(225, 79, 79);
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+}
+
+#buttonGénérer{
+    border-radius: 50px;
+    background-color: white;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+}
+
+.info_generation{
+    border-radius: 10px;
+    background-color: rgba(225, 79, 79, 0.7);
+    width: 100%;
+    height: auto;
+    margin: 1em;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: left;
+    color: white;
+    font-size: 1.25rem;
+}
+
+.increase{
+    width:  20px;
+    height: 20px;
+}

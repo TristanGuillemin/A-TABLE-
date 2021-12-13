@@ -1,0 +1,43 @@
+<!DOCTYPE html><html>
+<head>
+	<link href="CSS/inscription.css" rel="stylesheet" />
+	<title>Inscription</title>
+	<link rel="stylesheet" href="CSS/css/bootstrap.css">
+	<meta charset="utf-8" />
+</head>
+<body>
+ 			<div class="container">
+ 				<div class="row"></div>
+          		<div class="row">
+          			<div class="col"></div>
+          			<div class="col">
+          				<div class="inscription">
+ 						<div class="titre"><h1>SOS MENUS</h1></div>
+						<h2> Inscription </h2><br/>
+						<form action="phpInscription.php" method="post">
+							<p>
+								<input type ="text" name="prenom" placeholder="Prénom" required/>
+							</p>
+							<p>
+								<input type ="text" name="nom" placeholder="Nom" required/>
+							</p>
+							<p>
+								<input type ="text" name="mail" placeholder="Adresse mail" required/>
+							</p>
+								<!--<textarea>Nom d'utilisateur</textarea><br/>-->
+							<p>
+								<input type ="password" name="password" placeholder="Mot de passe" required/>
+							</p>
+							<p>
+								<input type ="password" name="verifpassword" placeholder="Comfirmer le mot de passe" required/>
+							</p>
+							<p>Avez-vous déjà un compte? <a href="connexion.html"> Connexion </a></p>
+							<!--<a id=buttonInscription href= "acceuil.html" >S'inscrire</a>-->
+							<input type="submit" value="Inscription"/>
+						</form>
+					</div>
+					</div>
+					<div class="col"></div>
+				</div>
+			</div>	
+ </body>

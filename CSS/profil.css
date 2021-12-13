@@ -1,0 +1,53 @@
+body{
+    background-image: url(../IMG/profil.png);
+}
+#buttonAccueil{
+    border-color: rgb(225, 79, 79);
+    border-radius: 50px;
+    background-color: rgb(225, 79, 79);
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    font-style: roboto;
+}
+
+#buttonDeconnexion{
+    border-color: rgb(225, 79, 79);
+    border-radius: 50px;
+    background-color: rgb(225, 79, 79);
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+}
+
+#buttonValidation{
+    border-radius: 50px;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+}
+
+.infoProfil{
+    border-radius: 10px;
+    background-color: rgba(225, 79, 79, 0.7);
+    width: 100%;
+    height: 90%;
+    margin: 1em;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: white;
+    font-size: 1.5rem;
+    
+}
+.infoAllergies{
+    text-align: left;
+}

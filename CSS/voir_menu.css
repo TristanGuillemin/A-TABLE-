@@ -1,0 +1,155 @@
+#buttonProfil{
+    border-color: rgb(225, 79, 79);
+    border-radius: 50px;
+    background-color: rgb(225, 79, 79);
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+}
+#buttonAccueil{
+    border-color: rgb(225, 79, 79);
+    border-radius: 50px;
+    background-color: rgb(225, 79, 79);
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+}
+
+#midi{
+    border-radius: 50px;
+    background-color: grey;
+    width: 100%;
+    height: auto;
+    margin: 1rem;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    font-size:  1.5rem;
+    color: white;
+}
+
+#soir{
+    border-radius: 50px;
+    background-color: grey;
+    width: 100%;
+    height: auto;
+    margin: 1rem;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    font-size:  1.5rem;
+    color: white;
+}
+
+#lundi{
+    border-radius: 50px;
+    background-color: rgb(225, 79, 79);
+    width: 100%;
+    height: auto;
+    margin: 1rem;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    font-size:  1.5rem;
+    color: white;
+}
+
+#mardi{
+    border-radius: 50px;
+    background-color: rgb(225, 79, 79);
+    width: 100%;
+    height: auto;
+    margin: 1rem;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    font-size:  1.5rem;
+    color: white;
+}
+
+#mercredi{
+    border-radius: 50px;
+    background-color: rgb(225, 79, 79);
+    width: 100%;
+    height: auto;
+    margin: 1rem;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    font-size:  1.5rem;
+    color: white;
+}
+
+#jeudi{
+    border-radius: 50px;
+    background-color: rgb(225, 79, 79);
+    width: 100%;
+    height: auto;
+    margin: 1rem;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    font-size:  1.5rem;
+    color: white;
+}
+
+#vendredi{
+    border-radius: 50px;
+    background-color: rgb(225, 79, 79);
+    width: 100%;
+    height: auto;
+    margin: 1rem;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    font-size:  1.5rem;
+    color: white;
+}
+
+#samedi{
+    border-radius: 50px;
+    background-color: rgb(225, 79, 79);
+    width: 100%;
+    height: auto;
+    margin: 1rem;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    font-size:  1.5rem;
+    color: white;
+}
+
+#dimanche{
+    border-radius: 50px;
+    background-color: rgb(225, 79, 79);
+    width: 100%;
+    height: auto;
+    margin: 1rem;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    font-size:  1.5rem;
+    color: white;
+}
