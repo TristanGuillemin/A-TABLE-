@@ -1,11 +1,5 @@
 <?php
 	session_start();
-	int $i;
-	$connect = new PDO('mysql:host=localhost;dbname=generator','user', 'user');
-	for($i=0;i<$nbRepas;$i++){
-		$sql = "SELECT id, firstname, lastname FROM MyGuests";
-$result = $conn->query($sql);
-	}
 ?>
 <!DOCTYPE html>
 <html>

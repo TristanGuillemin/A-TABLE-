@@ -1,5 +1,5 @@
 body{
-	background-image: url(connexion.png);
+    background-image: url(../IMG/connexion.png);
 }
 header{
     position: sticky;
@@ -33,7 +33,7 @@ a{
 }
 .connexion{
     background-color: white;
-    width: 100%%;
+    width: 100%;
     height: auto;
     margin: 1rem;
     padding-right: 25px;

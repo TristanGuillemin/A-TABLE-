@@ -1,0 +1,54 @@
+1,Carotte,Legume,8
+2,Betterave,Legume,8
+3,Chou,Legume,8
+4,Courge,Legume,8
+5,Endive,Legume,8
+6,Epinard,Legume,8
+7,Navet,Legume,8
+8,Panais,Legume,8
+9,Pomme de terre,Legume,8
+10,Citron,Fruit,8
+11,Clementine,Fruit,8
+12,Kaki,Fruit,8
+13,Kiwi,Fruit,8
+14,Mandarine,Fruit,8
+15,Orange,Fruit,8
+16,Pamplemousse,Fruit,8
+17,Poire,Fruit,8
+18,Pomme,Fruit,8
+19,Radis,Legume,8
+20,Asperge,Legume,8
+21,Artichaut,Legume,8
+22,Concombre,Legume,8
+23,Petit Pois,Legume,8
+24,Laitue,Legume,8
+25,Aubergine,Legume,8
+26,Courgette,Legume,8
+27,Cerise,Fruit,8
+28,Fraise,Fruit,8
+29,Rhubarbe,Fruit,8
+30,Tomate,Legume,8
+31,Brocoli,Legume,8
+32,Fenouil,Legume,8
+33,Haricot vert,Legume,8
+34,Poivron,Legume,8
+35,Abricot,Fruit,8
+36,Brugnon,Fruit,8
+37,Peche,Fruit,8
+38,Framboise,Fruit,8
+39,Melon,Fruit,8
+40,Pasteque,Fruit,8
+41,Prune,Fruit,8
+42,Raisin,Fruit,8
+43,Boeuf,viande,NULL
+44,Pates,viande,1 
+45,Sauce tomate,legume,8
+46,Tofu,legume,8
+47,Saumon fume,poisson,NULL
+48,Creme fraiche,viande,2
+49,Yaourt,laitage,2
+50,Fromage,laitage,2
+51,Moules,poisson,7
+52,haricots rouges,Legume,8
+53,Poulet,viande,NULL
+54,Oeuf,viande,1

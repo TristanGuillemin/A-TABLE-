@@ -16,14 +16,16 @@
   		 	<a id="buttonProfil" href="profil.php">Profil</a>
   		 	
   		 	<div class="col">
-     		 <div class="info_generation">
+     		<div class="info_generation">
 
+			  <!-- Formulaire-->
+			  <form action="phpGenererMenu.php" method="post">
      		 	<h1> Nombre de repas </h1>
-          		Avec viande:&nbsp &nbsp<input type="number" name="viande" min="0" max="14" placeholder="Nombre de repas avec viande"><br>
+          		Avec viande:&nbsp &nbsp<input type="number" name="viande" value="0" min="0" max="14" placeholder="Nombre de repas avec viande"><br>
  				<br>
-     		 	Avec poisson: <input type="number" name="poisson"min="0" max="14" placeholder="Nombre de repas avec poisson"><br>
+     		 	Avec poisson: <input type="number" name="poisson" value="0" min="0" max="14" placeholder="Nombre de repas avec poisson"><br>
      		 	<br>
-     		 	Végétarien:&nbsp &nbsp &nbsp<input type="number" name="vegetarien"min="0" max="14" placeholder="Nombre de repas végétarien"><br>
+     		 	Végétarien:&nbsp &nbsp &nbsp<input type="number" name="vegetarien" value="0" min="0" max="14" placeholder="Nombre de repas végétarien"><br>
      		 	<br>
      		
      		 	Repas:<br>
@@ -63,8 +65,10 @@
      		 	</table>
      		 	<br>
 			 	<!--partie Générations-->
-     		 	<a id="buttonGénérer" href= "voir_menu.php" >Générer</a>
-     		 </div>
+				 <input type="submit" value="Generer"/>
+				
+     		</div>
+			</form>
      	</div>	 
     </div>
     </div>

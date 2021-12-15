@@ -48,7 +48,7 @@ if($_POST['password']==$_POST['verifpassword']){
     session_start();
     $_SESSION['id'] = $resultat['idUtilisateur'];
     header('Location: accueil.php');
-    //echo $_SESSION['id'];*/
+    //echo $_SESSION['id'];
 }
 else{
     header('Location: connexion.html');

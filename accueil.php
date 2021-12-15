@@ -6,8 +6,8 @@
 <head>
   <meta charset="utf-8" />
   <title>Accueil</title>
-	<link href="accueil.css" rel="stylesheet" />
-	<link rel="stylesheet" href="css/bootstrap.css" >
+	<link href="CSS/accueil.css" rel="stylesheet" />
+	<link rel="stylesheet" href="CSS/css/bootstrap.css" >
 </head>
 <body>
 	<div class="page_accueil">
@@ -40,7 +40,8 @@
 									<li>Relancer un plat</li><br>
 									<li>Choisir un nouveau plat</li><br>
 									<br>
-									<a id="buttonVoirmenu" href="voir_menu.php">Voir menus</a>
+									<!--<a id="buttonVoirmenu" href="voir_menu.php">Voir menus</a>-->
+									<a id="buttonVoirmenu" href="phpAffichageMenu.php">Voir menus</a>
 								</ul>
 						</div>
 					</div>
